@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gVAiAbL03KzJjEpN4qFxZR1iJZ3l+U+uMUhEA5K5CJpLmltcCJKxuQJl2KkdLShNYV7CDec9riibApwpH4EKaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacob\\source\\repos\\lab4fileio\\lab4fileio\\lab4fileio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

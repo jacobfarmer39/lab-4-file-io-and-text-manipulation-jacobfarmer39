@@ -1,0 +1,16 @@
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.exe
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.deps.json
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.runtimeconfig.json
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.runtimeconfig.dev.json
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.dll
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\ref\lab4fileio.dll
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\bin\Debug\net5.0\lab4fileio.pdb
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.dll
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\ref\lab4fileio.dll
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.pdb
+C:\Users\Jacob\source\repos\lab4fileio\lab4fileio\obj\Debug\net5.0\lab4fileio.genruntimeconfig.cache
